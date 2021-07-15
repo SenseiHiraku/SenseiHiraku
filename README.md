@@ -13,6 +13,6 @@
 <summary><b>My GitHub Stats 📊</b></summary>
 
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=senseihiraku&theme=dark&hide_border=true" width = 500>
   <img src = "https://raw.githubusercontent.com/SenseiHiraku/github-stats/master/generated/languages.svg?token=AHZCN72OT4WX6BTHHFUCWA3A7HMEG" >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=senseihiraku&theme=dark&hide_border=true" width = 500>
 </details>
