@@ -4,7 +4,6 @@
 
 🤠 Hey there!
 
-- :hammer_and_pick: My main languages are C/C++, Lua and Python
 - 🎓 Student at University of Applied Sciences | 🛡 Supreme Leader at [Legion of Sensei](https://github.com/LegionOfSensei)
 - 💬 Discord: `Hiraku#0001` :email: `hiraku(at)legionofsensei.de`
 
