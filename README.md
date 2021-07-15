@@ -1,16 +1,18 @@
-### Hi there 👋
+## I'm Hiraku! 🎩
 
-<!--
-**SenseiHiraku/SenseiHiraku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/senseihiraku"><img align="right" src="https://komarev.com/ghpvc/?username=senseihiraku"/></a>
 
-Here are some ideas to get you started:
+🤠 Hey there!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :hammer_and_pick: My main languages: C/C++, Lua and Python
+- 🎓 Student at University of Applied Sciences | 🛡 Supreme Leader at [Legion of Sensei](https://github.com/LegionOfSensei)
+- 💬 Discord: `Hiraku#0001` :email: `hiraku(at)legionofsensei.de`
+
+<details>
+
+<summary><b>My GitHub Stats 📊</b></summary>
+
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=senseihiraku&theme=dark&hide_border=true" width = 500>
+  <img src = "https://raw.githubusercontent.com/SenseiHiraku/github-stats/master/generated/languages.svg?token=AHZCN72OT4WX6BTHHFUCWA3A7HMEG" >
+</details>
